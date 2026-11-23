@@ -1,10 +1,10 @@
 {
   "input_file": "/workspace/Metody-sztucznej-inteligencji/lab1/project/data/exercise.csv",
-  "input_sha256": "95e9049fe9f1283ba65514c7060499d175deaa88cd8c582097ced4cceed6ed07",
+  "input_sha256": "80706ce8729207cf21932b40c542fed9849aa294c8254ce71a540c5849efada3",
   "total_messages": 8,
   "label_counts": {
-    "ham": 5,
-    "spam": 3
+    "ham": 4,
+    "spam": 4
   },
   "runtime": {
     "python_executable": "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
