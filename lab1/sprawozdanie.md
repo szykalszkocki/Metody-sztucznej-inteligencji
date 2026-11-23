@@ -38,4 +38,4 @@ W `data/exercise.csv` zmieniono etykietę `exercise-008` z `ham` na `spam`. Prze
 
 Wynik zgadza się z przewidywaniem. Końcowy CSV i raport zweryfikowano również na gałęzi `main`. [Końcowy commit na GitHubie](https://github.com/szykalszkocki/Metody-sztucznej-inteligencji/commit/5e0d544af9c4f706fb284f5f2f6996f7ffd03be1)
 
-**Pełny zapis sesji** — do uzupełnienia eksportem z aplikacji w katalogu `lab1/sesje/`.
+**Pełny zapis sesji** — `lab1/sesja-01.md`.
