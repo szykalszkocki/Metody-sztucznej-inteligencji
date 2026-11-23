@@ -2,8 +2,8 @@
 
 - **Repozytorium** — [Metody-sztucznej-inteligencji](https://github.com/szykalszkocki/Metody-sztucznej-inteligencji)
 - **Aplikacja** — Codex (środowisko Codex Cloud)
-- **Model** — do uzupełnienia nazwą widoczną w aplikacji
-- **Poziom rozumowania** — do uzupełnienia, jeśli aplikacja go wyświetla
+- **Model** — GPT-6.2 Sol 
+- **Poziom rozumowania** — Wysoki
 
 ## 1. Zlecenie, zakres i odbiór
 
